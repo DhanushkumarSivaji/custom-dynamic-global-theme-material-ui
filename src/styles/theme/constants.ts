@@ -284,6 +284,6 @@ export const p3 = {
   icon: "#005ea5"
 };
 
-export const subdomain1 = "udeonw";
-export const subdomain2 = "udeonw2";
+export const subdomain1 = "customtheme";
+export const subdomain2 = "master";
 export const subdomain3 = "udeonw3";
